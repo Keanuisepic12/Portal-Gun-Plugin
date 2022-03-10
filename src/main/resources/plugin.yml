@@ -1,0 +1,8 @@
+name: PortalGun
+version: '${project.version}'
+main: me.gamma.portalgun.portalgun.Main
+api-version: 1.18
+prefix: Portal Gun
+authors: [ Gamma ]
+description: What more is there to say? Portal gun.
+website: me.gamma.portalgun
